@@ -1,0 +1,1 @@
+"Esta vez nos reunimos muchas veces mas, y las reuniones duraban mas. Nos relajamos mas y entramos mas en confianza. Encontramos problemas a la hora de agregar los middleware, pero despues logramos el objetivo de sprint."

@@ -1,0 +1,46 @@
+[
+ {
+  "name": "Pepe alfonso",
+  "email": "ivan.rebora@hotmail.com",
+  "dateBrith": "2021-04-05",
+  "address": "Olleros 1768",
+  "interests": "Videojuegos",
+  "fileavatar": "",
+  "password": "1234",
+  "confirmpass": "1234",
+  "id": 4
+ },
+ {
+  "name": "jose alvarez",
+  "email": "jose@gmail.com",
+  "dateBrith": "2021-03-29",
+  "address": "Olleros 1768",
+  "interests": "Videojuegos",
+  "fileavatar": "",
+  "password": "1234",
+  "confirmpass": "1234",
+  "id": 5
+ },
+ {
+  "name": "ivan",
+  "email": "ivan.rebora@hotmail.com",
+  "dateBrith": "2021-03-02",
+  "address": "Olleros 1768",
+  "interests": "Cine",
+  "fileavatar": "logInMobile.jpg",
+  "password": "1234",
+  "confirmpass": "1234",
+  "id": 8
+ },
+ {
+  "id": 9,
+  "name": "Pablo Alberto",
+  "email": "alfio104@hotmail.com",
+  "dateBrith": "2021-04-27",
+  "address": "Olleros 1768",
+  "interests": "Videojuegos",
+  "password": "$2a$10$FBzUecISBkFqLwm/Mq6VGeU0twnqCvxqD/XluNWxZ1clj0aK3XGNS",
+  "confirmpass": "$2a$10$Nr8n6IC3WM/TZ3UZF8eX3OtWmXzkD./GToc75AhvF1QMLg2YjyJZy",
+  "fileavatar": "1622330866433_img.jpg"
+ }
+]
